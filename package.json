@@ -1,0 +1,23 @@
+{
+  "name": "first-repo-1",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axcell-0/first-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axcell-0/first-repo/issues"
+  },
+  "homepage": "https://github.com/axcell-0/first-repo#readme",
+  "devDependencies": {
+    "hint": "^7.1.5"
+  }
+}
